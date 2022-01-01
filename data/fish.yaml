@@ -1,4 +1,4 @@
-train: "kaggle/working/fishyolov5/train.txt"
+train: "/kaggle/working/fishyolov5/train.txt"
 val: ""
 # number of classes
 nc: 1
